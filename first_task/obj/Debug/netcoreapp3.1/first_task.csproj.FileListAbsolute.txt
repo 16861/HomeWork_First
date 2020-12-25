@@ -1,0 +1,11 @@
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/bin/Debug/netcoreapp3.1/first_task
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/bin/Debug/netcoreapp3.1/first_task.deps.json
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/bin/Debug/netcoreapp3.1/first_task.runtimeconfig.json
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/bin/Debug/netcoreapp3.1/first_task.runtimeconfig.dev.json
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/bin/Debug/netcoreapp3.1/first_task.dll
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/bin/Debug/netcoreapp3.1/first_task.pdb
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/obj/Debug/netcoreapp3.1/first_task.csprojAssemblyReference.cache
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/obj/Debug/netcoreapp3.1/first_task.AssemblyInfoInputs.cache
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/obj/Debug/netcoreapp3.1/first_task.AssemblyInfo.cs
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/obj/Debug/netcoreapp3.1/first_task.dll
+/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/obj/Debug/netcoreapp3.1/first_task.pdb

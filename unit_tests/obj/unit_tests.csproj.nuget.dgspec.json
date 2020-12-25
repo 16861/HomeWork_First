@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/unit_tests/unit_tests.csproj": {}
+  },
+  "projects": {
+    "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/first_task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/first_task.csproj",
+        "projectName": "first_task",
+        "projectPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/first_task.csproj",
+        "packagesPath": "/home/igor/.nuget/packages/",
+        "outputPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/igor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/second_task/second_task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/second_task/second_task.csproj",
+        "projectName": "second_task",
+        "projectPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/second_task/second_task.csproj",
+        "packagesPath": "/home/igor/.nuget/packages/",
+        "outputPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/second_task/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/igor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/third_task/third_task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/third_task/third_task.csproj",
+        "projectName": "third_task",
+        "projectPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/third_task/third_task.csproj",
+        "packagesPath": "/home/igor/.nuget/packages/",
+        "outputPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/third_task/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/igor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/unit_tests/unit_tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/unit_tests/unit_tests.csproj",
+        "projectName": "unit_tests",
+        "projectPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/unit_tests/unit_tests.csproj",
+        "packagesPath": "/home/igor/.nuget/packages/",
+        "outputPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/unit_tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/igor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/first_task.csproj": {
+                "projectPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/first_task/first_task.csproj"
+              },
+              "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/second_task/second_task.csproj": {
+                "projectPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/second_task/second_task.csproj"
+              },
+              "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/third_task/third_task.csproj": {
+                "projectPath": "/home/igor/Documents/programming/education_sharp/homeworks/first_lection/third_task/third_task.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
